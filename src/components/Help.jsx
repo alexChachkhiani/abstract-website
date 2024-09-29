@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 function Help() {
   const [isHovered, setIsHovered] = useState(false);
   return (
-    <div className="bg-gray-300 py-32 flex flex-col items-center justify-center ">
+    <div className="bg-gray-300 py-28 flex flex-col items-center justify-center ">
       <h1 className="text-7xl font-medium pb-10 ">How can we help?</h1>
       <div
         className="relative w-1/2 flex justify-center"
